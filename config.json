@@ -1,0 +1,21 @@
+{
+  "name": "Nodo00",
+  "description": "Nodo00",
+  "type": "Nodo",
+  "user": "admin",
+  "sonoff": {
+    "user": "gonreyna85@gmail.com",
+    "password": "Orchendor1",
+    "region": "us"
+  },
+  "google": {
+    "device00": {
+      "ip": "192.168.0.187",
+      "name": "Arriba"
+    },
+    "device01": {
+      "ip": "192.168.0.175",
+      "name": "Abajo"
+    }
+  }
+}
